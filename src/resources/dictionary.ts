@@ -539,7 +539,7 @@ const internationalExam: DictionaryResource[] = [
   {
     id: 'ielts_defined_vocabulary_book',
     name: 'IELTS_AaronLau自定生词本',
-    description: 'IELTS乱序完整版',
+    description: 'IELTS_AaronLau自定生词本',
     category: '国际考试',
     tags: ['IELTS'],
     url: '/dicts/defined_vocabulary_book.json',
