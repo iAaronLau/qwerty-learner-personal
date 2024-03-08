@@ -1,37 +1,37 @@
 [
   {
-    "name": "account = description = elaborate",
+    "name": "account description elaborate",
     "trans": "",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "chill = freeze = cold = winter = Antartica = penguins",
-    "trans": "寒冷=冰冻=寒冷=冬天=南极洲=企鹅",
+    "name": "chill freeze cold winter Antartica penguins",
+    "trans": "寒冷 冰冻 寒冷 冬天 南极洲 企鹅",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "Change = shift = modify = revision",
-    "trans": "改变=转变=修改=修正",
+    "name": "Change shift modify revision",
+    "trans": "改变 转变 修改 修正",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "and =as well as = and by = and  also",
-    "trans": "和 = 以及 = 和 = 以及",
+    "name": "and as well as and by and  also",
+    "trans": "和 以及 和 以及",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "Building =construction",
-    "trans": "建筑=建筑",
+    "name": "Building construction",
+    "trans": "建筑 建筑",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "limited=a few =in complete",
-    "trans": "有限=一些=完整",
+    "name": "limited a few in complete",
+    "trans": "有限 一些 完整",
     "": "",
     "__1": "阅读,同义替换"
   },
@@ -48,8 +48,8 @@
     "__1": "阅读"
   },
   {
-    "name": "start = embark upon",
-    "trans": "开始=开始",
+    "name": "start embark upon",
+    "trans": "开始 开始",
     "": "",
     "__1": "听力,同义替换"
   },
@@ -246,32 +246,32 @@
     "__1": "阅读"
   },
   {
-    "name": "the worst-case scenario can be averted = reducing(minimizing) casualties in  the event of a disaster",
-    "trans": "最坏的情况是可以避免的 = 减少（最小化）灾难发生时的伤亡",
+    "name": "the worst-case scenario can be averted reducing(minimizing) casualties in  the event of a disaster",
+    "trans": "最坏的情况是可以避免的 减少（最小化）灾难发生时的伤亡",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "Happen =  event = occur",
-    "trans": "发生=事件",
+    "name": "Happen  event occur",
+    "trans": "发生 事件",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "Catastrophe = disaster",
-    "trans": "灾难=灾难",
+    "name": "Catastrophe disaster",
+    "trans": "灾难 灾难",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "unleash = lead to",
-    "trans": "释放=导致",
+    "name": "unleash lead to",
+    "trans": "释放 导致",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "drill = prepare=practice= rehearsal",
-    "trans": "练习=准备",
+    "name": "drill prepare practice rehearsal",
+    "trans": "练习 准备",
     "": "",
     "__1": "阅读,同义替换"
   },
@@ -312,8 +312,8 @@
     "__1": "阅读"
   },
   {
-    "name": "see a situation from someone else’s perspective = view complex situation from different angles",
-    "trans": "从别人的角度看情况=从不同的角度看待复杂的情况",
+    "name": "see a situation from someone else’s perspective view complex situation from different angles",
+    "trans": "从别人的角度看情况 从不同的角度看待复杂的情况",
     "": "",
     "__1": "阅读,同义替换"
   },
@@ -336,8 +336,8 @@
     "__1": "阅读"
   },
   {
-    "name": "Uttered a falsehood = uttered a lie = tell a lie",
-    "trans": "说谎=说谎=说谎",
+    "name": "Uttered a falsehood uttered a lie tell a lie",
+    "trans": "说谎 说谎 说谎",
     "": "",
     "__1": "阅读"
   },
@@ -378,14 +378,14 @@
     "__1": "阅读"
   },
   {
-    "name": "thinking = mental activity",
-    "trans": "思维=心理活动",
+    "name": "thinking mental activity",
+    "trans": "思维 心理活动",
     "": "",
     "__1": "阅读,同义替换"
   },
   {
-    "name": "Difficult and complex = sophisticated",
-    "trans": "困难且复杂 = 复杂",
+    "name": "Difficult and complex sophisticated",
+    "trans": "困难且复杂 复杂",
     "": "",
     "__1": "阅读,同义替换"
   },

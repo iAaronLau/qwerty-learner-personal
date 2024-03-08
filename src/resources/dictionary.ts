@@ -554,7 +554,7 @@ const internationalExam: DictionaryResource[] = [
     category: '国际考试',
     tags: ['IELTS'],
     url: '/dicts/flower.json',
-    length: 2112,
+    length: 83,
     language: 'en',
     languageCategory: 'en',
   },
