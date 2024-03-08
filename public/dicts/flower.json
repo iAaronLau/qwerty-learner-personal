@@ -1,0 +1,500 @@
+[
+  {
+    "name": "account = description = elaborate",
+    "trans": "",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "chill = freeze = cold = winter = Antartica = penguins",
+    "trans": "寒冷=冰冻=寒冷=冬天=南极洲=企鹅",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "Change = shift = modify = revision",
+    "trans": "改变=转变=修改=修正",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "and =as well as = and by = and  also",
+    "trans": "和 = 以及 = 和 = 以及",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "Building =construction",
+    "trans": "建筑=建筑",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "limited=a few =in complete",
+    "trans": "有限=一些=完整",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "it makes sense to do sth",
+    "trans": "做某事是有意义的",
+    "": "",
+    "__1": "口语,写作"
+  },
+  {
+    "name": "Joint account",
+    "trans": "n. 联名账户",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "start = embark upon",
+    "trans": "开始=开始",
+    "": "",
+    "__1": "听力,同义替换"
+  },
+  {
+    "name": "End of term",
+    "trans": "期末；",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "content",
+    "trans": "n. 含量，内容，主题，网站内容 pl. 容纳的东西，目录，内容 adj. 满意的，心满意足的 vt. 使满意 reflexive verb. 满足 n. 满足",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "catalogues",
+    "trans": "n. 目录；目录簿; 一连串（糟糕）事; v. 列入目录；编入目录; 记载，登记（某人、某事等的详情）",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "questionnaire",
+    "trans": "n. 调查表",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "certificate",
+    "trans": "n. 结业证书，合格证，证明文书，审查分级 vt. 用证书证明",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "diploma",
+    "trans": "n. 毕业文凭",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "seminar",
+    "trans": "n. 研讨会，研讨班",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "tutorial",
+    "trans": "n. 辅导课 adj. 辅导教师的",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "lecture",
+    "trans": "n. 讲座，训斥 vt. 训斥 vi. 讲课",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "advanced",
+    "trans": "adj. 高级的，超前的，先进的，晚期的，进入后半期的",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "training",
+    "trans": "n. 培训，训练",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "beginning",
+    "trans": "n. 起点，开始 pl. 起源",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "restaurant",
+    "trans": "n. 餐馆",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "Accommodation",
+    "trans": "n. 住所，和解",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "convenient",
+    "trans": "adj. 方便的，近便的，省时省力的",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "Summary",
+    "trans": "n. 总结 adj. 即决的，概要的",
+    "": "",
+    "__1": "听力"
+  },
+  {
+    "name": "no idea",
+    "trans": "不知道；",
+    "": "",
+    "__1": "口语"
+  },
+  {
+    "name": "will ya",
+    "trans": "好吗？",
+    "": "",
+    "__1": "口语"
+  },
+  {
+    "name": "island",
+    "trans": "n. 岛屿，环岛中央，安静/宁静的地方",
+    "": "You got me off the island 你让我不再孤单",
+    "__1": "口语"
+  },
+  {
+    "name": "bother",
+    "trans": "vt. 打扰，使烦恼，使…不安，使…疼痛，不在乎，…真烦人 vi. 费事，担心 n. 麻烦，令人烦恼的人 excl. 真讨厌",
+    "": "tell sb quit bothering you 告诉某人别烦你",
+    "__1": "口语"
+  },
+  {
+    "name": "never without",
+    "trans": "从不缺少",
+    "": "you are never without me我一直会在的",
+    "__1": "口语"
+  },
+  {
+    "name": "stick around",
+    "trans": "vi. 待在原地",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "we are (always here)for you.",
+    "trans": "我们永远是你的后盾！",
+    "": "",
+    "__1": "口语"
+  },
+  {
+    "name": "you haven't even apologized",
+    "trans": "你甚至都没道歉",
+    "": "",
+    "__1": "口语"
+  },
+  {
+    "name": "stabilizer",
+    "trans": "n. 稳定装置，稳定剂 pl. 平衡轮",
+    "": "",
+    "__1": "口语"
+  },
+  {
+    "name": "All of us are …(我们都）",
+    "trans": "",
+    "": "",
+    "__1": "口语"
+  },
+  {
+    "name": "I feel like doing(我想做某事）",
+    "trans": "",
+    "": "",
+    "__1": "口语"
+  },
+  {
+    "name": "unprecedented",
+    "trans": "adj. 空前的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "Little more than + n",
+    "trans": "只不过是",
+    "": "He is little more than a boy in worldly experience.他涉世不深，简直还是一个孩子",
+    "__1": "写作,阅读"
+  },
+  {
+    "name": "more than + n",
+    "trans": "不仅仅是",
+    "": "He is more than a teacher 他不仅仅是一个老师（可能还有其他身份）",
+    "__1": "写作,阅读"
+  },
+  {
+    "name": "Hunting",
+    "trans": "1.n.打猎\n2.去打猎\n3.sth keeps hunting sb 某事一直困扰某人",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "hunt",
+    "trans": "n. 寻找，打猎，猎狐 vt. 追捕，猎食，追猎，猎狐，驱逐 vi. 寻找，追捕，猎食，打猎 vt. 追捕，寻找，追猎 vt. 找到 vt. 寻找",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "the worst-case scenario can be averted = reducing(minimizing) casualties in  the event of a disaster",
+    "trans": "最坏的情况是可以避免的 = 减少（最小化）灾难发生时的伤亡",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "Happen =  event = occur",
+    "trans": "发生=事件",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "Catastrophe = disaster",
+    "trans": "灾难=灾难",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "unleash = lead to",
+    "trans": "释放=导致",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "drill = prepare=practice= rehearsal",
+    "trans": "练习=准备",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "Disaster drills",
+    "trans": "灾难演习",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "complacent",
+    "trans": "adj. 自满的，安于现状的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "imminent",
+    "trans": "adj. 迫近的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "circumstances",
+    "trans": "n. 条件；环境；状况; 境况；境遇；（尤指）经济状况; 命运；客观环境; 在这种情况下；既然如此; 决不；无论如何不; 隆重的仪式; （委婉说法，与 poor 同义）境况不济",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "Plausible",
+    "trans": "adj. 貌似合理的，花言巧语的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "coordinate",
+    "trans": "n. 坐标 pl. 套装 vt. 协调",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "see a situation from someone else’s perspective = view complex situation from different angles",
+    "trans": "从别人的角度看情况=从不同的角度看待复杂的情况",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "Over time",
+    "trans": "",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "sensational",
+    "trans": "adj. 引起轰动的，耸人听闻的，极好的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "sinking",
+    "trans": "adj. 颓丧的 n. 沉没，挖掘",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "Uttered a falsehood = uttered a lie = tell a lie",
+    "trans": "说谎=说谎=说谎",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "punish",
+    "trans": "vt. 惩罚，粗暴对待",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "rational",
+    "trans": "adj. 理性的，合理的，神智清楚的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "rationalise",
+    "trans": "v. 对…进行理性的解释；对…加以科学的说明; 使合理化；进行合理化改革；使有经济效益",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "temptation",
+    "trans": "n. 诱惑，诱惑物",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "inability",
+    "trans": "n. 无能",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "ultimately",
+    "trans": "adverb. 最终，根本上",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "thinking = mental activity",
+    "trans": "思维=心理活动",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "Difficult and complex = sophisticated",
+    "trans": "困难且复杂 = 复杂",
+    "": "",
+    "__1": "阅读,同义替换"
+  },
+  {
+    "name": "instinctively",
+    "trans": "adverb. 本能地",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "instant",
+    "trans": "adj. 立刻的，立即可食的，紧急的 n. 片刻，速溶咖啡",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "map",
+    "trans": "n. 地图 vt. 绘制…的地图，在地图上标出 vt. 详细安排",
+    "": "",
+    "__1": ""
+  },
+  {
+    "name": "ability to self-regulate",
+    "trans": "自我调节能力",
+    "": "",
+    "__1": "写作,阅读"
+  },
+  {
+    "name": "neuroscientist",
+    "trans": "n. 神经科学",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "cognitive",
+    "trans": "adj. 认知的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "conginitive",
+    "trans": "先天性的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "ability to self-regulate",
+    "trans": "自我调节能力",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "a sense of morality",
+    "trans": "道德感",
+    "": "",
+    "__1": "写作,阅读"
+  },
+  {
+    "name": "manipulate",
+    "trans": "vt. 操作，操纵，控制，篡改，对…推拿",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "someone else’sperspective",
+    "trans": "别人的角度/观点",
+    "": "",
+    "__1": "写作,阅读"
+  },
+  {
+    "name": "sophisticated",
+    "trans": "adj. 老于世故的，老练的，高雅的，精密的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "milestone",
+    "trans": "n. 里程碑，转折点",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "Psychologist have documented sb lying",
+    "trans": "心理学家证实：孩子说谎",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "psychologist",
+    "trans": "n. 心理学家",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "behavioural",
+    "trans": "adj. 行为的",
+    "": "",
+    "__1": "阅读"
+  },
+  {
+    "name": "lie",
+    "trans": "vi. 躺，被埋葬，平放，处于某位置，堆积起来，停泊，名列，位于，延伸，存在，可受理 n. 位置，球停位置 vi. 无所事事地混日子 vi. 平躺，仰靠 vi. 躺下 vi. 睡懒觉 vi. 躲藏 n. 谎言 vi. 说谎，造成假象 vt. 谎称",
+    "": "lie(v)-lies-lying-lay-lain",
+    "__1": "阅读"
+  },
+  {
+    "name": "lying",
+    "trans": "v. 位于( lie的现在分词 )，说谎，展现，说谎",
+    "": "",
+    "__1": "阅读"
+  }
+]
